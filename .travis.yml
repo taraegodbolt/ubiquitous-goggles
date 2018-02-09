@@ -22,8 +22,6 @@ branches:
   only:
     - master
 
-install:
-  - yarn install
 script:
   - echo asdsadsdasd
   - node test.js
